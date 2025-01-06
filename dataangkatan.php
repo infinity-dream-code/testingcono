@@ -18,7 +18,7 @@ include 'koneksi.php';
                         <th>ID Angkatan</th>
                         <th>Nama Angkatan</th>
                         <th>Biaya</th>
-                        <th>Action</th>
+                        <th>Aksi</th>
                     </tr>
                 </thead>
                 <tbody>
